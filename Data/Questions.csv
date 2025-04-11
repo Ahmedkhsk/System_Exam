@@ -1,0 +1,6 @@
+1,What is JavaScript?,MCQ,A browser-based programming language,A browser-based programming language used for web development,1
+2,Explain the concept of state in React,Essay,State is component-specific data storage,State is a JavaScript object that stores component data and determines the component's behavior,2
+3,What are the key features of Flutter?,MCQ,Cross-platform development capabilities,Cross-platform native app development using a single codebase,3
+4,Describe the purpose of normalization in database design,Essay,To reduce data redundancy,To organize data efficiently by eliminating redundancy and ensuring data integrity,4
+5,How does NumPy differ from regular Python lists?,MCQ,NumPy arrays are more efficient for numerical operations,NumPy arrays are optimized for numerical computations and offer better performance,5
+6,What is a firewall?,MCQ,A security device that monitors network traffic,A security system that monitors and controls incoming and outgoing network traffic,6
