@@ -16,7 +16,4 @@
 **System_Exam** is a fully database-driven application developed using **Microsoft SQL Server** and **T-SQL** to manage the entire exam lifecycle — from creation and insertion to backup and permissions.  
 It is ideal for educational institutions or organizations that need a reliable backend to create, execute, and manage exam data without relying on external applications.
 
----
-
-## 🏗️ Architecture
 
