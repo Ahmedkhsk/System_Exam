@@ -1,21 +1,22 @@
-# System_Exam
+<h1 align="center">🧪 System_Exam</h1>
+<p align="center">
+  Robust SQL Server–based Exam Management System  
+</p>
 
-An application powered by a robust SQL Server database, designed to handle test creation, execution, and the full lifecycle of exam data management.  
-All application logic and functionalities are implemented using T-SQL, providing a backend-focused, efficient, and secure database-driven architecture.
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-T--SQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=CC2927"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"/>
+</p>
 
-## 📌 Features
+---
 
-- 🔧 **Creation**: Define exams, questions, and associated metadata.
-- 📝 **Insertion**: Add questions, answers, and related details into the database.
-- 🔍 **Indexing**: Enhance data retrieval performance through optimized indexing.
-- 🔐 **Permissions**: Manage access and user roles to secure sensitive data.
-- 💾 **Backup**: Ensure data safety through backup management.
-- 📤 **Views**: Predefined SQL views to simplify data reporting and analysis.
-- ⚙️ **Stored Procedures (SP)**: All operations are encapsulated in stored procedures for performance and maintainability.
+## 📚 Overview
 
-## 🧱 Technology Stack
+**System_Exam** is a fully database-driven application developed using **Microsoft SQL Server** and **T-SQL** to manage the entire exam lifecycle — from creation and insertion to backup and permissions.  
+It is ideal for educational institutions or organizations that need a reliable backend to create, execute, and manage exam data without relying on external applications.
 
-- **Database**: Microsoft SQL Server
-- **Language**: T-SQL (Transact-SQL)
+---
 
+## 🏗️ Architecture
 
